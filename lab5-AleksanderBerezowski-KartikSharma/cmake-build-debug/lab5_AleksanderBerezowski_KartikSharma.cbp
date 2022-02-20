@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="lab5_AleksanderBerezowski_KartikSharma"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/Sixtium/ENSF337/lab5-AleksanderBerezowski-KartikSharma/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make.exe -j8 -f &quot;/home/Sixtium/ENSF337/lab5-AleksanderBerezowski-KartikSharma/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make.exe -j8 -f &quot;/home/Sixtium/ENSF337/lab5-AleksanderBerezowski-KartikSharma/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j8 -f &quot;/home/Sixtium/ENSF337/lab5-AleksanderBerezowski-KartikSharma/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j8 -f &quot;/home/Sixtium/ENSF337/lab5-AleksanderBerezowski-KartikSharma/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/Sixtium/ENSF337/lab5-AleksanderBerezowski-KartikSharma/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make.exe -j8 -f &quot;/home/Sixtium/ENSF337/lab5-AleksanderBerezowski-KartikSharma/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make.exe -j8 -f &quot;/home/Sixtium/ENSF337/lab5-AleksanderBerezowski-KartikSharma/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j8 -f &quot;/home/Sixtium/ENSF337/lab5-AleksanderBerezowski-KartikSharma/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j8 -f &quot;/home/Sixtium/ENSF337/lab5-AleksanderBerezowski-KartikSharma/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/Sixtium/ENSF337/lab5-AleksanderBerezowski-KartikSharma/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make.exe -j8 -f &quot;/home/Sixtium/ENSF337/lab5-AleksanderBerezowski-KartikSharma/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make.exe -j8 -f &quot;/home/Sixtium/ENSF337/lab5-AleksanderBerezowski-KartikSharma/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j8 -f &quot;/home/Sixtium/ENSF337/lab5-AleksanderBerezowski-KartikSharma/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j8 -f &quot;/home/Sixtium/ENSF337/lab5-AleksanderBerezowski-KartikSharma/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="lab5_AleksanderBerezowski_KartikSharma">
+				<Option output="/home/Sixtium/ENSF337/lab5-AleksanderBerezowski-KartikSharma/cmake-build-debug/lab5_AleksanderBerezowski_KartikSharma.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/Sixtium/ENSF337/lab5-AleksanderBerezowski-KartikSharma/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/11/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/11/../../../../lib/../include/w32api"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make.exe -j8 -f &quot;/home/Sixtium/ENSF337/lab5-AleksanderBerezowski-KartikSharma/cmake-build-debug/Makefile&quot;  VERBOSE=1 lab5_AleksanderBerezowski_KartikSharma"/>
+					<CompileFile command="/usr/bin/make.exe -j8 -f &quot;/home/Sixtium/ENSF337/lab5-AleksanderBerezowski-KartikSharma/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j8 -f &quot;/home/Sixtium/ENSF337/lab5-AleksanderBerezowski-KartikSharma/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j8 -f &quot;/home/Sixtium/ENSF337/lab5-AleksanderBerezowski-KartikSharma/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="lab5_AleksanderBerezowski_KartikSharma/fast">
+				<Option output="/home/Sixtium/ENSF337/lab5-AleksanderBerezowski-KartikSharma/cmake-build-debug/lab5_AleksanderBerezowski_KartikSharma.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/Sixtium/ENSF337/lab5-AleksanderBerezowski-KartikSharma/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/11/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/11/../../../../lib/../include/w32api"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make.exe -j8 -f &quot;/home/Sixtium/ENSF337/lab5-AleksanderBerezowski-KartikSharma/cmake-build-debug/Makefile&quot;  VERBOSE=1 lab5_AleksanderBerezowski_KartikSharma/fast"/>
+					<CompileFile command="/usr/bin/make.exe -j8 -f &quot;/home/Sixtium/ENSF337/lab5-AleksanderBerezowski-KartikSharma/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j8 -f &quot;/home/Sixtium/ENSF337/lab5-AleksanderBerezowski-KartikSharma/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j8 -f &quot;/home/Sixtium/ENSF337/lab5-AleksanderBerezowski-KartikSharma/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/Sixtium/ENSF337/lab5-AleksanderBerezowski-KartikSharma/lab5exF.c">
+			<Option target="lab5_AleksanderBerezowski_KartikSharma"/>
+		</Unit>
+		<Unit filename="/home/Sixtium/ENSF337/lab5-AleksanderBerezowski-KartikSharma/lab5exF.h">
+			<Option target="lab5_AleksanderBerezowski_KartikSharma"/>
+		</Unit>
+		<Unit filename="/home/Sixtium/ENSF337/lab5-AleksanderBerezowski-KartikSharma/lab5exe_D.txt">
+			<Option target="lab5_AleksanderBerezowski_KartikSharma"/>
+		</Unit>
+		<Unit filename="/home/Sixtium/ENSF337/lab5-AleksanderBerezowski-KartikSharma/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

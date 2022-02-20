@@ -1,0 +1,3 @@
+/home/Sixtium/ENSF337/lab5-AleksanderBerezowski-KartikSharma/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/Sixtium/ENSF337/lab5-AleksanderBerezowski-KartikSharma/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/Sixtium/ENSF337/lab5-AleksanderBerezowski-KartikSharma/cmake-build-debug/CMakeFiles/lab5_AleksanderBerezowski_KartikSharma.dir

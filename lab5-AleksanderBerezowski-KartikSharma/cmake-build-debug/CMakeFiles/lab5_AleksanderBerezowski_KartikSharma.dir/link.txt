@@ -1,0 +1,1 @@
+/usr/bin/gcc.exe -g -Wl,--enable-auto-import CMakeFiles/lab5_AleksanderBerezowski_KartikSharma.dir/lab5exF.c.o -o lab5_AleksanderBerezowski_KartikSharma.exe -Wl,--out-implib,liblab5_AleksanderBerezowski_KartikSharma.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

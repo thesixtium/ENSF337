@@ -1,0 +1,1 @@
+/usr/bin/c++.exe -g -Wl,--enable-auto-import CMakeFiles/lab7_AleksanderBerezowski.dir/simpleVector.cpp.o CMakeFiles/lab7_AleksanderBerezowski.dir/lab7ExD.cpp.o -o lab7_AleksanderBerezowski.exe -Wl,--out-implib,liblab7_AleksanderBerezowski.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

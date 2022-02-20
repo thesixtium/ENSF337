@@ -1,0 +1,3 @@
+/home/Sixtium/ENSF337/lab4-AleksanderBerezowski/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/Sixtium/ENSF337/lab4-AleksanderBerezowski/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/Sixtium/ENSF337/lab4-AleksanderBerezowski/cmake-build-debug/CMakeFiles/lab4_AleksanderBerezowski.dir

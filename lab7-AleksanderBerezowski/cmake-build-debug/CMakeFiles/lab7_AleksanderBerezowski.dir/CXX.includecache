@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/Sixtium/ENSF337/lab7-AleksanderBerezowski/simpleVector.cpp
+simpleVector.h
+/home/Sixtium/ENSF337/lab7-AleksanderBerezowski/simpleVector.h
+cassert
+-
+
+/home/Sixtium/ENSF337/lab7-AleksanderBerezowski/simpleVector.h
+

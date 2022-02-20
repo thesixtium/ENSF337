@@ -1,0 +1,1 @@
+/usr/bin/c++.exe -g -Wl,--enable-auto-import CMakeFiles/lab8_AleksanderBerezowski.dir/list.cpp.o CMakeFiles/lab8_AleksanderBerezowski.dir/hydro.cpp.o -o lab8_AleksanderBerezowski.exe -Wl,--out-implib,liblab8_AleksanderBerezowski.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

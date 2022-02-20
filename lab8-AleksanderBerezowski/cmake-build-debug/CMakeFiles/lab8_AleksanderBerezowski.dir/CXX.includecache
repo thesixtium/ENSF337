@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/Sixtium/ENSF337/lab8-AleksanderBerezowski/hydro.cpp
+iostream
+-
+list.h
+/home/Sixtium/ENSF337/lab8-AleksanderBerezowski/list.h
+hydro.h
+/home/Sixtium/ENSF337/lab8-AleksanderBerezowski/hydro.h
+
+/home/Sixtium/ENSF337/lab8-AleksanderBerezowski/hydro.h
+fstream
+-
+iostream
+-
+stdlib.h
+-
+string
+-
+list.h
+/home/Sixtium/ENSF337/lab8-AleksanderBerezowski/list.h
+
+/home/Sixtium/ENSF337/lab8-AleksanderBerezowski/list.cpp
+list.h
+/home/Sixtium/ENSF337/lab8-AleksanderBerezowski/list.h
+
+/home/Sixtium/ENSF337/lab8-AleksanderBerezowski/list.h
+iostream
+-
+stdlib.h
+-
+fstream
+-
+

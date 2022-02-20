@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/Sixtium/ENSF337/lab9-AleksanderBerezowski/lab9ExE.cpp
+iostream
+-
+fstream
+-
+iomanip
+-
+stdlib.h
+-
+matrix.h
+/home/Sixtium/ENSF337/lab9-AleksanderBerezowski/matrix.h
+
+/home/Sixtium/ENSF337/lab9-AleksanderBerezowski/matrix.cpp
+matrix.h
+/home/Sixtium/ENSF337/lab9-AleksanderBerezowski/matrix.h
+
+/home/Sixtium/ENSF337/lab9-AleksanderBerezowski/matrix.h
+fstream
+-
+iostream
+-
+iomanip
+-
+cassert
+-
+

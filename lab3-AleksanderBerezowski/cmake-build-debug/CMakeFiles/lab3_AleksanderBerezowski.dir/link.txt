@@ -1,0 +1,1 @@
+/usr/bin/gcc.exe -g -Wl,--enable-auto-import CMakeFiles/lab3_AleksanderBerezowski.dir/lab3exe_D.c.o -o lab3_AleksanderBerezowski.exe -Wl,--out-implib,liblab3_AleksanderBerezowski.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

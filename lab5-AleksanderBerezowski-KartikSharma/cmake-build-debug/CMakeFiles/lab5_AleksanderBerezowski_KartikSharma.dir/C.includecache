@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/Sixtium/ENSF337/lab5-AleksanderBerezowski-KartikSharma/lab5exF.c
+lab5exF.h
+/home/Sixtium/ENSF337/lab5-AleksanderBerezowski-KartikSharma/lab5exF.h
+stdio.h
+-
+math.h
+-
+string.h
+-
+
+/home/Sixtium/ENSF337/lab5-AleksanderBerezowski-KartikSharma/lab5exF.h
+

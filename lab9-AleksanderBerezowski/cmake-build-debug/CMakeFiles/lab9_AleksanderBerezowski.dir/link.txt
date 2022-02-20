@@ -1,0 +1,1 @@
+/usr/bin/c++.exe -g -Wl,--enable-auto-import CMakeFiles/lab9_AleksanderBerezowski.dir/lab9ExE.cpp.o CMakeFiles/lab9_AleksanderBerezowski.dir/matrix.cpp.o -o lab9_AleksanderBerezowski.exe -Wl,--out-implib,liblab9_AleksanderBerezowski.dll.a -Wl,--major-image-version,0,--minor-image-version,0 
